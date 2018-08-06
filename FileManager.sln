@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager", "FileManager\FileManager.csproj", "{795EBD18-48E5-48BE-8D5F-5CBFBD850A89}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FileManagerSetupProject", "FileManagerSetupProject\FileManagerSetupProject.vdproj", "{93F27AA2-7A2E-4EEF-A9E6-33B4AEF22FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795EBD18-48E5-48BE-8D5F-5CBFBD850A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795EBD18-48E5-48BE-8D5F-5CBFBD850A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795EBD18-48E5-48BE-8D5F-5CBFBD850A89}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{795EBD18-48E5-48BE-8D5F-5CBFBD850A89}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{93F27AA2-7A2E-4EEF-A9E6-33B4AEF22FE8}.Debug|Any CPU.ActiveCfg = Debug
+		{93F27AA2-7A2E-4EEF-A9E6-33B4AEF22FE8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6627DD32-16AF-483E-B781-7E0EEC9DED3B}
+	EndGlobalSection
+EndGlobal
